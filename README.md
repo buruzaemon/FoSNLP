@@ -1,2 +1,3 @@
-# FoSNLP
-Foundations of Statistical Natural Language Processing, Manning and Schütze
+# Foundations of Statistical Natural Language Processing, Manning and Schütze
+
+
